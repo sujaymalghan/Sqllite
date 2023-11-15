@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="default_padding">10dp</dimen>
+    <dimen name="default_padding2">5dp</dimen>
+    <dimen name="shadow_size">6dp</dimen>
+    <dimen name="spacer">65dp</dimen>
+
+    <dimen name="imgsize1"> 300dp</dimen>
+
+    <dimen name="fixedheight"> 58</dimen>
+
+<dimen name="imgsize2">150dp </dimen>
+
+
+<dimen name="fontsize1"> 36dp</dimen>
+
+
+<dimen name="fontsize2">20dp</dimen>
+
+
+    <item name="fragment_container" type="id"/>
+
+</resources>
